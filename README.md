@@ -59,37 +59,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorvspedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorvspedro&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
-### 📅 My Agenda Pro
-
-Sistema de gerenciamento de agendas desenvolvido para facilitar a organização e o controle de compromissos.
-
-**Tecnologias:** React • TypeScript • Node.js
-
----
 
 ### 🎮 Projetos de RPG 2D
 
