@@ -63,9 +63,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorvspedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorvspedro&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -118,11 +118,11 @@ Projetos desenvolvidos utilizando **React Native e Expo**, explorando desenvolvi
 
 <div align="left">
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:igorvspedro73@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/igor-viana-79b94724a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
