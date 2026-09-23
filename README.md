@@ -46,8 +46,20 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📊 Estatísticas GitHub
 
+<div align="center">
+  <a href="https://github.com/Igorvspedro">
+    <img src="https://github-readme-stats.vercel.app/api?username=Igorvspedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" />
+  </a>
+  <a href="https://github.com/Igorvspedro">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igorvspedro&theme=dracula" width="400" />
+  </a>
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
 
 ### 🎮 Projetos de RPG 2D
 
